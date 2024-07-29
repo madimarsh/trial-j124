@@ -8,3 +8,6 @@
 <ins>this will be underlined</ins>
 
 This will have a ~~strikethrough~~
+
+This is a chart I made earlier
+![This is a data wrapper chart](yFSZH-median-income.png)
